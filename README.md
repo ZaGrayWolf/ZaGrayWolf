@@ -20,8 +20,8 @@ Welcome to my GitHub! I'm a passionate **Machine Learning Enthusiast** and **Sof
 - **[ML & Data Analytics Basics Report](https://github.com/YourUsername/ML-Basics-Report)**: A detailed report covering the basics of machine learning and data analytics, prepared in IEEE format.
 
 ## 💡 Let's Connect:
-- [LinkedIn](inkedin.com/in/abhuday-singh-280836284/)
-- [Kaggle]([https://twitter.com/your-twitter](https://www.kaggle.com/abhuday7))
+- [LinkedIn](https://www.linkedin.com/in/abhuday-singh-280836284/)
+- [Kaggle](https://www.kaggle.com/abhuday7)
 - Email: abhuday2656@gmail.com
 
 Feel free to explore my repositories, contribute, or reach out if you're interested in collaborating on exciting projects. Happy coding! 🚀
