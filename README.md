@@ -1,4 +1,4 @@
-# 💫 About Me: Hi, I'm Abhuday Singh
+# 💫 Hi, I'm Abhuday 
 Welcome to my GitHub! I'm a passionate Machine Learning Enthusiast and Software Developer focused on real-world applications of AI and ML. I enjoy building innovative solutions that bridge the gap between theory and practice, with a particular interest in model deployment.
 
 
